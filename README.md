@@ -1,1 +1,1 @@
-# My-Test-Project
+# GIT and GITHUB trainee
